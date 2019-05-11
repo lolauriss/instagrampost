@@ -1,0 +1,55 @@
+body{
+  background: black;
+}
+.w3-container{
+  background-color: white;
+  margin: auto;
+  height: 550px;
+  width: 30%;
+  padding-top: 5px;
+}
+#html{
+    position: absolute;
+    height: 40px;
+    width: 30px;
+    float: left;
+    top: 0;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+h4{
+    margin-left: 40px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+h6{
+    margin-top: -20px;
+    margin-left: 40px;
+    top: 10px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+#puntos{
+    height: 40px;
+    width: 40px;
+    float: right;
+    top: 0;
+    margin-top: -70px;
+}
+#insta{
+    width: 100%;
+    margin-top: -10px;
+    border: none;
+    height:50%
+}
+p{
+    font-family: arial;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.redes{
+  margin-left: 5px;
+}
